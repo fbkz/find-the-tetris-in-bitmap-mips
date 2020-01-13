@@ -7,7 +7,7 @@ A project in which I had to generate a 11x11 bitmap with the possibility to be m
 * «1», in the bitmap, represents a piece or part of a piece
 * «0» means nothing or emptiness
 
-A piece could be like the ones from the Tetris game and were assigned by the teacher - I got an E without the middle trace, in a 2x3 bitmap would be like this:
+A piece could be like the ones from the Tetris game and were assigned by the teacher - I got an E without the middle trace, in a 3x3 bitmap would be like this:
 
 <p align="center">
 011<br>
